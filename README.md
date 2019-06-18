@@ -3,3 +3,8 @@
 ---
 
 ## Index
+
+```
+var a = 'string';
+
+```
