@@ -36,7 +36,7 @@
   # H1 
   ## H2
   ### H3
-  ```javascript
+  ```js
   let sample = 'sample string';
 
   ```
