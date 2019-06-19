@@ -11,7 +11,10 @@
     - [javascript basic 1](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic1.md)
     - [javascript basic 2](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic2.md)
     - [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
-    
+    - scopes and closures
+    - asynchronous and callback
+  - DOM
+  
 ---
 
 ##  개요
