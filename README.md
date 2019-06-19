@@ -10,7 +10,7 @@
   - javascript basic
     - [javascript basic 1](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic1.md)
     - [javascript basic 2](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic2.md)
-    
+    - [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
     
 ---
 
@@ -57,3 +57,6 @@
 
 #### [javascript basic 2](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic2.md)
 - javascript 기초 **syntax**를 직접 타이핑하면서 확인한다.
+
+#### [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
+- quiz를 통해 기초 **syntax**를 확인한다.
