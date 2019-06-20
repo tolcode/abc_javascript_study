@@ -14,6 +14,7 @@
     - [scopes and closures](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/scope-and-closures.md)
     - [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
   - DOM
+    - [DOM 정리](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/dom.md)
   
 ---
 
@@ -69,3 +70,12 @@
 
 #### [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
 - 비동기와 콜백메서드를 이해한다.
+- promise, async, await의 필요성에 대해 이해한다.
+
+---
+
+## DOM
+
+#### [DOM 정리](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/dom.md)
+- DOM의 생성과정을 이해한다.
+- javascript로 DOM에 접근하는 방법을 이해한다.
