@@ -11,8 +11,8 @@
     - [javascript basic 1](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic1.md)
     - [javascript basic 2](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasic2.md)
     - [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
-    - scopes and closures
-    - asynchronous and callback
+    - [scopes and closures](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/scope-and-closures.md)
+    - [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
   - DOM
   
 ---
@@ -63,3 +63,9 @@
 
 #### [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
 - quiz를 통해 기초 **syntax**를 확인한다.
+
+#### [scopes and closures](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/scope-and-closures.md)
+- 스코프와 클로저를 이해한다.
+
+#### [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
+- 비동기와 콜백메서드를 이해한다.
