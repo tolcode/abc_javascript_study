@@ -13,6 +13,9 @@
     - [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
     - [scopes and closures](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/scope-and-closures.md)
     - [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
+    - Array method
+    - Promise
+    - scope chain, prototype
   - DOM
     - [DOM 정리](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/dom.md)
   
